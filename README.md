@@ -1,7 +1,9 @@
 # Merchant_Amount_Settlement_with_Delta_CDC
 
-This project simulates **real-time UPI transaction processing** using **Databricks, Delta Lake, and Spark Structured Streaming** with **Change Data Capture (CDC)** enabled.
-It processes merchant payment transactions, aggregates them in real-time, and maintains up-to-date settlement data.
+* This project simulates **real-time UPI transaction processing** using **Databricks, Delta Lake, and Spark Structured Streaming** with **Change Data Capture (CDC)** enabled.
+* It processes merchant payment transactions, aggregates them in real-time, and maintains up-to-date settlement data.
+
+![arc](architecture.png)
 
 ---
 
